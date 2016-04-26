@@ -1,0 +1,13 @@
+*~
+*.o
+*.elf
+*.bin
+*.list
+*.swp
+*.bak
+
+# Executables
+bin-*
+
+# Generated
+result-*
